@@ -1,0 +1,4 @@
+Movie Database 
+
+People can look up movies through the imdb api, those movies are saved to the database and the other people can 
+comment on it. some pertinent movie info is shown in a card. 
