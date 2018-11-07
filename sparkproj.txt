@@ -2,3 +2,11 @@ Movie Database
 
 People can look up movies through the imdb api, those movies are saved to the database and the other people can 
 comment on it. some pertinent movie info is shown in a card. 
+
+1. Look up movies
+2. Able to comment on the movies that other people have looked up 
+3. Use the OMDB API to bring back movie info with title picture url year and a short summary store it in a 
+mongo.
+4. Maybe a google oauth login, maybe
+5. Maybe React
+6. Maybe a star based rating system. 
