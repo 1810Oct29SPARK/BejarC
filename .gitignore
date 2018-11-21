@@ -25,6 +25,7 @@ hs_err_pid*
 
 
 
+
 ### Eclipse ###
 
 .metadata
@@ -34,6 +35,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
+
 local.properties
 .settings/
 .loadpath
@@ -95,3 +97,4 @@ local.properties
 
 .sts4-cache/
 
+Servers/
